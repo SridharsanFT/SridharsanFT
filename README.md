@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Sridharsan
-- 👀 I’m interested in learning frappe technologies...
-- 🌱 I’m currently learning frappe framework and programming...
-- 💞️ I’m looking to collaborate on microsoft teams...
-- 📫Reach me on sridharsan157@gmail.com ...
+Hi, **I'm** **Sridharsan R** – an ERPNext Functional Consultant at **Faircode Technologies Private Limited** with expertise in ERPNext customization, implementation, and training.
 
-<!---
-Sridharsan/Sridharsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 **Core Skills**:
+
+--> Custom Workspaces, Dashboards & Reports<br>
+--> Custom Doctypes & Module Development<br>
+--> Web Pages, Web Forms & API Integrations<br>
+--> Industry-specific ERPNext Customization<br>
+
+🏆 **Achievements**:
+
+--> Awarded Best ERPNext Consultant for improving implementation efficiency<br>
+--> Trained 40+ interns & freshers in ERPNext functionality<br>
+--> Active Frappe Forum Member, contributing solutions & insights<br>
+🚀 Passionate about optimizing business workflows with ERPNext and crafting innovative solutions!
+
+📫 **Let's Connect**:
+🔗 [LinkedIn](https://www.linkedin.com/in/sridharsan-r-a487a9248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 🌐 [Portfolio](https://sites.google.com/view/sridharsan-portfolio) | [📧 sridharsan1417@gmail.com]
